@@ -9,12 +9,13 @@
 * [Methodology applied](#methodology-applied)
   * [Libraries used](#libraries-used)
   * [Data exploration](#data=exploration)
+  * [Feature engineering](#feature-engineering)
   * [Feature selection](#feature-selection)
   * [Model creation](#model-creation)
     * [Random Forest regressor](#random-forest-regressor)
     * [Decision Tree regressor](#decision-tree-regressor)
     * [Linear Regression](#linear-regression) 
-  * [Cross Validation](#cross-validation)
+  * [Cross Validation and Hyperparameter tuning](#cross-validation-and-hyperparameter-tuning)
 * [Results exercepts](#code-exercepts)
 * [Conclusion](#conclusion)
 * [Acknowledgments](#acknowledgments)
@@ -26,7 +27,7 @@ To step into the world of data science and machine learning, I aimed to work on 
 
 ## Aim
 
-I worked on a dataset <a href="https://www.google.com/" target="_blank">Google</a>
+I worked on flight price prediction data-set to predict 
 
 
 
