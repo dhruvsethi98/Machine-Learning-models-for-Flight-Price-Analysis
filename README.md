@@ -20,6 +20,15 @@
 * [Acknowledgments](#acknowledgments)
 
 
+## Motivation
+
+To step into the world of data science and machine learning, I aimed to work on basic machine learning models and the other stages required for the same. The motivation arose after viewing various data driven insights that were uncovered from Kaggle notebooks people worked on. Adding to this, people used the same dataset to deliver different results which piqued my interest and I wished to work with the data as well.
+
+## Aim
+
+I worked on a dataset <a href="https://www.google.com/" target="_blank">Google</a>
+
+
 
 
 
