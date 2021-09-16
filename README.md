@@ -27,11 +27,16 @@ To step into the world of data science and machine learning, I aimed to work on 
 
 ## Aim
 
-I worked on flight price prediction data-set to predict 
+To predict flight fare prices using ML techniques.
 
-
-
-
+## Introduction
+  ### Problem Statement
+  
+  The flight prices for the year 2019 were documented and using the same dataset, the flight prices were to be predicted.
+  
+  ### Dataset description
+  
+  An excerpt of the datset is given as follows and had 11 fields with 10684 records. 
 
 |Airline                          |Date_of_Journey|Source  |Destination|Route                            |Dep_Time|Arrival_Time|Duration|Total_Stops|Additional_Info             |Price|
 |---------------------------------|---------------|--------|-----------|---------------------------------|--------|------------|--------|-----------|----------------------------|-----|
